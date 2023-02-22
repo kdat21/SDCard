@@ -1,6 +1,6 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:id="@+id/new_folder"
-        android:title="New Folder" />
+        android:title="Thư mục mới" />
     <item android:id="@+id/new_file"
-        android:title="New File" />
+        android:title="File mới" />
 </menu>
